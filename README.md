@@ -55,6 +55,7 @@ Escolha o método de autenticação:
 ---
 
 ## Referências
-- [Documentação oficial do Azure](https://docs.microsoft.com/azure)
+- [Documentação oficial do Azure](https://docs.microsoft.com/azure)![DALL·E-2024-09-06-20 00 06-An-illustration-representing-virtual-machines](https://github.com/user-attachments/assets/873b42b9-269d-46c7-ae3a-4fb481b02cb9)
+
 
 
